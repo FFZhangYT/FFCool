@@ -3,7 +3,7 @@
 This model is a simple  Shopping Cart solution. Provide basic functionality to create and modify Shopping Cart with any content in it. Easy to extend, just create your own Cart Entity and push it during Cart initialisation.
 
 
-![github](http://github.com/unicorn.png "github")
+![github](https://github.com/FFZhangYT/FFCool/blob/master/assets/show.gif "github")
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
