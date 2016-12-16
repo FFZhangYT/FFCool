@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## FFShopCart
 
-You can use the [editor on GitHub](https://github.com/FFZhangYT/FFCool/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This model is a simple  Shopping Cart solution. Provide basic functionality to create and modify Shopping Cart with any content in it. Easy to extend, just create your own Cart Entity and push it during Cart initialisation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![github](http://github.com/unicorn.png "github")
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
