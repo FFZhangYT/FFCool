@@ -121,6 +121,7 @@
 				TargetAttributes = {
 					DB2A67391BE893250074C7B1 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = NY6PEE64D2;
 					};
 				};
 			};
@@ -279,10 +280,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NY6PEE64D2;
 				INFOPLIST_FILE = FFShopCart/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = FFZ.FFShopCart;
+				PRODUCT_BUNDLE_IDENTIFIER = com.behe.money.shopCard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -291,10 +293,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NY6PEE64D2;
 				INFOPLIST_FILE = FFShopCart/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = FFZ.FFShopCart;
+				PRODUCT_BUNDLE_IDENTIFIER = com.behe.money.shopCard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
